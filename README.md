@@ -12,7 +12,7 @@ Stream Panel V189 is free to install. Paid update access covers 12 months, with 
 
 Open the installer page and follow the instructions from your Ubuntu server’s SSH session.
 
-[Install Stream Panel V189](https://panel-install.softwareguy.co.uk/installer/)
+[Install Stream Panel V189](https://panel-install.softwareguy.co.uk/installer/)<br>
 [Stream Panel — Full Information and Features](https://softwareguy.co.uk/)
 
 Stream Panel does not provide TV channels. Use sources you have permission to stream.
